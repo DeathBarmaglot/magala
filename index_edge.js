@@ -75,7 +75,7 @@ var symbols = {
                 type: 'text',
                 rect: ['0px', '146px','222px','101px','auto', 'auto'],
                 text: "ПРОДАЖ",
-                font: ['Arial, Helvetica, sans-serif', 27, "rgba(255,255,255,1.00)", "700", "none", ""]
+                font: ['Arial, Helvetica, sans-serif', 23, "rgba(255,255,255,1.00)", "700", "none", ""]
             },
             {
                 id: '_122',
